@@ -1,0 +1,29 @@
+.link {
+    color: #999999;
+}
+.title {
+    color: black;
+    font-size: 3rem;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+}
+
+.li {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #999999;
+}
+
+.li:hover {
+    color: #666666;
+}
+
+.active-li {
+    color: black;
+}
